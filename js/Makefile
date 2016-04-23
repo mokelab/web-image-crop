@@ -1,2 +1,2 @@
 app:
-	tsc app.ts -out app.js
+	tsc -target es6 app.ts -out app.js
